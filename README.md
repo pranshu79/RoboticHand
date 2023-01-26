@@ -49,7 +49,7 @@ I have used laptop camera for the sake of simplicity but I can use raspberrypi c
 ## Team Members
 
 - [Pranshu Kedia](https://github.com/pranshu79)
-_ [Tanishka Nama]()
+- [Tanishka Nama]()
 
 
 
