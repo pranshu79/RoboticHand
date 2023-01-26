@@ -16,7 +16,6 @@ I have used mainly 4 components.
 - Microcontroller board (Raspberrypi zero 2W)
 - Servo Motors 
 - Camera 
-- 
 
 ### Raspberrypi zero 2W
 
@@ -39,12 +38,19 @@ I have used 5 Servo Motors for each finger which are connected to each finger us
 
 ### Camera
 
-I have used laptop camera for the sake of simplicity but I can use raspberrypi camera or any other camewra also.
+I have used laptop camera for the sake of simplicity but I can use raspberrypi camera or any other camera also.
 
 
 ## Prerequisites
 
-ComputerVision
+- Computer Vision
+- Basics of Raspberrypi 
+
+## Team Members
+
+- [Pranshu Kedia]()
+_ [Tanishka Nama]()
+
 
 
 
