@@ -2,7 +2,7 @@
 
 ## Robotic Hand 
 
-I have made a robotic hand (done mostly cv work) which will copy the human human hand gestures by capturing live video either by using front camera of laptop or raspberrypi camera.
+I have recently fabricated a ROS integrated mobile robot and performed point to point autonomous navigation on it in a zoo themed arena. We used semantic segmentation for detecting roads in the arena along with custom trained animal recognition algorithm for detecting destination. The bot localised using wheel odometery along with feedback from pose estimation on data from an  over head camera. The project was made for Hardwired, an annual robotics event at our college where our team stood first among 30 participating teams.
 
 
 ## Hardware Used:
